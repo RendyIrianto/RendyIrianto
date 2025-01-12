@@ -44,9 +44,6 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
   <a href="https://linkedin.com/in/rendyirianto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/RendyIrianto" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"/>
-  </a>
   <a href="mailto:iriantorendy1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/>
   </a>
