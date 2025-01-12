@@ -53,5 +53,3 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 </p>
 
 ---
-
-![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!)
