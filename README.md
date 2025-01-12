@@ -47,7 +47,6 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
   <a href="mailto:iriantorendy1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/>
   </a>
-  📞 Phone: +1 (613) 981-9662
 </p>
 
 ---
