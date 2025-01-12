@@ -20,7 +20,7 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
   <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" height="40"/>
-  <img src="https://icons8.com/icon/CLvQeiwFpit4/r-project" alt="R" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" height="40"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" height="40"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" height="40"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
