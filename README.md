@@ -32,9 +32,9 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RendyIrianto&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RendyIrianto&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendyIrianto&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendyIrianto&theme=radical" alt="GitHub Streak" width="500"/>
 </p>
 
 ---
