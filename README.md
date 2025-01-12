@@ -26,6 +26,7 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" height="40"/>
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/css.png" alt="HTML" height="40"/>
 </p>
 
 ---
