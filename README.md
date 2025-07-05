@@ -18,15 +18,15 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 
 ## 🔧 Skills:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" height="40"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" height="40"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" height="40"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" height="40"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
 </p>
 
 ---
