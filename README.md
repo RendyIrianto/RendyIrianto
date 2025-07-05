@@ -1,22 +1,21 @@
-# Hello 👋, I'm Rendy Irianto
-A passionate student pursuing a Bachelor's degree in Computer Science with a minor in Statistics at Carleton University. I am dedicated to learning and contributing to innovative projects in software development and problem-solving.
+# 👋 Hello, I'm Rendy Irianto
+
+🎓 Computer Science student with a Statistics minor at Carleton University (3rd year), driven to build clean, performant, and maintainable software.
 
 ---
 
-## 🚀 About Me:
-- 🌱 Currently in my 3rd year of Computer Science studies (2022-2027).
-- 💻 Experienced in **Python**, **SQL**, **C++**, **C**, **Java**, **JavaScript**, and **R**.
-- 🔧 Working on exciting projects, such as:
-  - **Recipe Book Application**: Integrated the Edamam API, enabling users to search for recipes by keyword or ingredient, with optimized API calls for seamless results. Developed a secure SQL database for storing user data and recipes, and implemented role-based access with a dynamic Express.js backend.
-  - **Chat Server**: Built a web socket-based real-time chat application using Node.js and Socket.io, featuring private messaging and user authentication.
-  - **Garage Management System**: Designed UML diagrams and implemented object-oriented principles (e.g., encapsulation, inheritance) in C++ to create a well-documented system with Linked List data structures.
-  - **Multi-threaded Simulations**: Created efficient, thread-safe simulations in C, addressing potential race conditions in shared data environments.
-- 🎨 Passionate about designing user-friendly interfaces and solving challenging problems.
-- 🌟 Excited to contribute to innovative projects in software development and system design.
+## 🚀 Featured Projects
+
+### 🛗 Elevator Simulation (C++, Qt)
+Simulated elevator operations with real-time GUI using Qt, including multi-floor logic, capacity tracking, and direction control. Applied object-oriented principles and implemented state machines for elevator behavior.
+
+### 🩺 Health Monitoring Device Simulation (C++, Qt, Linux)
+Built a C++ application mimicking a wearable health monitor. Designed UI using Qt, controlled device states (e.g., contact, battery), and manually managed memory. Included testing for edge cases and transition logic.
 
 ---
 
-## 🔧 Skills:
+## 💻 Key Technologies
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="40"/>
@@ -30,16 +29,18 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RendyIrianto&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RendyIrianto&show_icons=true&theme=radical" width="500"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendyIrianto&theme=radical" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendyIrianto&theme=radical" width="500"/>
 </p>
 
 ---
 
-## 📞 Connect with Me:
+## 📞 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/rendyirianto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
@@ -48,5 +49,3 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
-
----
